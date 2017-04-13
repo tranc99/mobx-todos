@@ -1,0 +1,8 @@
+before_script:
+  cd 6-mobx-react
+  npm install
+
+run_jest:
+  script:
+    npm test
+
